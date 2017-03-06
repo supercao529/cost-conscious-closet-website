@@ -2416,6 +2416,11 @@
 
 /* Image */
 
+	.solImg {
+		float:left;
+		margin: 70px;
+	}
+
 	.image {
 		border-radius: 8px;
 		border: 0;
